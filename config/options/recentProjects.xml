@@ -1,0 +1,410 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="F:/Desktop/CGB1811/space/CGB1811WORKSP/Java" />
+        <option value="F:/Desktop/CGB1811/space/CGB1811WORKSP/pdredis" />
+        <option value="F:/Desktop/CGB1811/space/CGB1811WORKSP/ssm" />
+        <option value="F:/Desktop/CGB1811/space/CGB1811WORKSP/PDAPP" />
+        <option value="F:/Desktop/CGB1811/space/CGB1811WORKSP/MyApplication6" />
+        <option value="F:/Desktop/CGB1811/space/CGB1811WORKSP/MyApplication7" />
+        <option value="F:/Desktop/CGB1811/space/CGB1811WORKSP/MyApplication3" />
+        <option value="F:/Desktop/CGB1811/space/CGB1811WORKSP/MyApplication4" />
+        <option value="F:/Desktop/CGB1811/space/CGB1811WORKSP/MyApplication5" />
+        <option value="D:/Users/Desktop/Android/亿发,移动端课前资料2019-02-25/亿发,移动端课前资料/weixin/code/weixinDemo" />
+        <option value="F:/Desktop/CGB1811/space/CGB1811WORKSP/MyApplication2" />
+        <option value="F:/Desktop/CGB1811/space/CGB1811WORKSP/MyApplication" />
+        <option value="D:/Users/Desktop/亿发html" />
+        <option value="D:/Users/Desktop/亿发html/bootstrap" />
+        <option value="D:/Users/Desktop/bootstrap" />
+        <option value="D:/Users/Desktop/MyLog" />
+        <option value="D:/Users/Downloads/l-weiwei-spiderman-master/spiderman" />
+        <option value="G:/Desktop/STS - idea" />
+        <option value="G:/Desktop/STS - idea/jt-cart" />
+        <option value="G:/Desktop/STS - idea/jt-sso" />
+        <option value="G:/Desktop/STS - idea/jt-manage" />
+        <option value="G:/Desktop/STS - idea/jt-parent" />
+        <option value="G:/Desktop/STS - idea/jt-web" />
+        <option value="G:/Desktop/STS - idea/jt-common" />
+        <option value="$USER_HOME$/IdeaProjects/demo2" />
+        <option value="$USER_HOME$/IdeaProjects/demo" />
+        <option value="$USER_HOME$/IdeaProjects/Test" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="F:/Desktop/CGB1811/space/CGB1811WORKSP/Java" />
+      </list>
+    </option>
+    <option name="lastPath" value="F:/Desktop/CGB1811/space/CGB1811WORKSP/Java" />
+    <option name="pid" value="" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/IdeaProjects/Test">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-183.4588.61" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1553052830377" />
+              <option name="buildTimestamp" value="1543929291311" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-183.4588.61" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1553053276778" />
+              <option name="buildTimestamp" value="1543929272781" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/demo2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-183.4588.61" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1553132028571" />
+              <option name="buildTimestamp" value="1543929279881" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/Users/Desktop/Android/亿发,移动端课前资料2019-02-25/亿发,移动端课前资料/weixin/code/weixinDemo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-183.4588.61" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1554859966663" />
+              <option name="buildTimestamp" value="1543929254995" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/Users/Desktop/MyLog">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-183.4588.61" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1554081085034" />
+              <option name="buildTimestamp" value="1543929287014" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/Users/Desktop/bootstrap">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-183.4588.61" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1554262023667" />
+              <option name="buildTimestamp" value="1543929285393" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/Users/Desktop/mylog">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-183.4588.61" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1553937018724" />
+              <option name="buildTimestamp" value="1543929297509" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/Users/Desktop/亿发html">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-183.4588.61" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1554359069657" />
+              <option name="buildTimestamp" value="1543929240956" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/Users/Desktop/亿发html/bootstrap">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-183.4588.61" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1554262407192" />
+              <option name="buildTimestamp" value="1543929285393" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/Users/Downloads/day18(1)/day18/daima/jt-springcloud">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-183.4588.61" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1553735415760" />
+              <option name="buildTimestamp" value="1543929281894" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/Users/Downloads/day18(1)/day18/代码">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-183.4588.61" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1553690366001" />
+              <option name="buildTimestamp" value="1543929280280" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/Users/Downloads/day18(1)/day18/代码/jt-springcloud">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-183.4588.61" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1553691348875" />
+              <option name="buildTimestamp" value="1543929280280" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/Users/Downloads/l-weiwei-spiderman-master/spiderman">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-183.4588.61" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1553926487410" />
+              <option name="buildTimestamp" value="1543929297509" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/Desktop/CGB1811/space/CGB1811WORKSP/Java">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-183.4588.61" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1555065049699" />
+              <option name="buildTimestamp" value="1543929240141" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/Desktop/CGB1811/space/CGB1811WORKSP/MyApplication">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-183.4588.61" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1554802185782" />
+              <option name="buildTimestamp" value="1543929241018" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/Desktop/CGB1811/space/CGB1811WORKSP/MyApplication2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-183.4588.61" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1554807740868" />
+              <option name="buildTimestamp" value="1543929267771" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/Desktop/CGB1811/space/CGB1811WORKSP/MyApplication3">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-183.4588.61" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1554979551059" />
+              <option name="buildTimestamp" value="1543929287485" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/Desktop/CGB1811/space/CGB1811WORKSP/MyApplication4">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-183.4588.61" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1554975819494" />
+              <option name="buildTimestamp" value="1543929247716" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/Desktop/CGB1811/space/CGB1811WORKSP/MyApplication5">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-183.4588.61" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1554975815688" />
+              <option name="buildTimestamp" value="1543929247716" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/Desktop/CGB1811/space/CGB1811WORKSP/MyApplication6">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-183.4588.61" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1554981544639" />
+              <option name="buildTimestamp" value="1543929287485" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/Desktop/CGB1811/space/CGB1811WORKSP/MyApplication7">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-183.4588.61" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1554981538567" />
+              <option name="buildTimestamp" value="1543929287485" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/Desktop/CGB1811/space/CGB1811WORKSP/PDAPP">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-183.4588.61" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1555032484678" />
+              <option name="buildTimestamp" value="1543929251035" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/Desktop/CGB1811/space/CGB1811WORKSP/pdredis">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-183.4588.61" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1555062621412" />
+              <option name="buildTimestamp" value="1543929240141" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/Desktop/CGB1811/space/CGB1811WORKSP/ssm">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-183.4588.61" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1555054881870" />
+              <option name="buildTimestamp" value="1543929251035" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="G:/Desktop/STS - idea">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-183.4588.61" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1553690188309" />
+              <option name="buildTimestamp" value="1543929280280" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="G:/Desktop/STS - idea/demo-quartzExpress">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-183.4588.61" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1553568970185" />
+              <option name="buildTimestamp" value="1543929290470" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="G:/Desktop/STS - idea/jt-cart">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-183.4588.61" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1553226800695" />
+              <option name="buildTimestamp" value="1543929257621" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="G:/Desktop/STS - idea/jt-common">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-183.4588.61" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1553139742842" />
+              <option name="buildTimestamp" value="1543929248017" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="G:/Desktop/STS - idea/jt-manage">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-183.4588.61" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1553140927874" />
+              <option name="buildTimestamp" value="1543929248017" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="G:/Desktop/STS - idea/jt-parent">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-183.4588.61" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1553139878404" />
+              <option name="buildTimestamp" value="1543929248017" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="G:/Desktop/STS - idea/jt-sso">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-183.4588.61" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1553140934708" />
+              <option name="buildTimestamp" value="1543929248017" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="G:/Desktop/STS - idea/jt-web">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-183.4588.61" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1553140921051" />
+              <option name="buildTimestamp" value="1543929248017" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="G:/Desktop/STS - idea/metronic_v4.7.5-3">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-183.4588.61" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1553517665297" />
+              <option name="buildTimestamp" value="1543929259510" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="F:/Desktop/CGB1811/space/CGB1811WORKSP" />
+  </component>
+</application>

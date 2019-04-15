@@ -1,0 +1,101 @@
+<application>
+  <component name="DimensionService">
+    <location key="new project wizard.0.0.1920.1080" x="347" y="76" />
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="962" y="471" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080" x="652" y="351" />
+    <location key="SettingsEditor.0.0.1920.1080" x="503" y="366" />
+    <location key="#Project_Structure.0.0.1920.1080" x="440" y="101" />
+    <location key="FileChooserDialogImpl.0.0.1920.1080" x="1147" y="240" />
+    <location key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD.0.0.1920.1080" x="658" y="424" />
+    <location key="ProcessPopupWindow.0.0.1920.1080" x="1011" y="912" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" x="414" y="181" />
+    <location key="#com.intellij.ide.util.TreeClassChooserDialog.0.0.1920.1080" x="689" y="315" />
+    <location key="#Notifications.0.0.1920.1080" x="709" y="253" />
+    <location key="com.intellij.database.dbimport.ImportDialog.0.0.1920.1080" x="540" y="178" />
+    <location key="NewModule_or_Project.wizard.0.0.1920.1080" x="1059" y="174" />
+    <location key="find.popup.0.0.1920.1080" x="638" y="219" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1920.1080" x="765" y="263" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1920.1080" x="700" y="356" />
+    <location key="chooseDestDirectoryDialog.0.0.1920.1080" x="756" y="333" />
+    <location key="#Intentions.0.0.1920.1080" x="552" y="212" />
+    <location key="GitCloneDialog.0.0.1920.1080" x="690" y="473" />
+    <location key="CommitChangelistDialog2.0.0.1920.1080" x="559" y="132" />
+    <location key="RollbackChangesDialog.0.0.1920.1080" x="726" y="255" />
+    <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages.0.0.1920.1080" x="739" y="433" />
+    <location key="Maven.ArtifactSearchDialog.0.0.1920.1080" x="490" y="208" />
+    <location key="refactoring.ChangeSignatureDialog.0.0.1920.1080" x="660" y="174" />
+    <location key="#Tomcat_Server.0.0.1920.1080" x="740" y="409" />
+    <location key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath.0.0.1920.1080" x="915" y="528" />
+    <location key="spring file set editor.0.0.1920.1080" x="771" y="295" />
+    <location key="#com.intellij.javaee.module.view.web.EditWebRootDialog.0.0.1920.1080" x="920" y="528" />
+    <location key="search.everywhere.popup.0.0.1920.1080" x="623" y="258" />
+    <location key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2.0.0.1920.1080" x="633" y="270" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1920.1080" x="690" y="309" />
+    <location key="run.anything.popup.0.0.1920.1080" x="615" y="252" />
+    <location key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.0.0.1920.1080" x="587" y="31" />
+    <location key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog.0.0.1920.1080" x="765" y="479" />
+    <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes.0.0.1920.1080" x="739" y="412" />
+    <location key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog.0.0.1920.1080" x="806" y="444" />
+    <location key="SettingsEditor.0.0.1920.1080@120dpi" x="557" y="206" />
+    <location key="FileChooserDialogImpl.0.0.1920.1080@120dpi" x="690" y="188" />
+    <location key="WELCOME_SCREEN.0.0.1920.1080@120dpi" x="963" y="490" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080@120dpi" x="577" y="339" />
+    <location key="new project wizard.0.0.1920.1080@120dpi" x="306" y="126" />
+    <location key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog.0.0.1920.1080@120dpi" x="772" y="437" />
+    <location key="ProcessPopupWindow.0.0.1920.1080@120dpi" x="1196" y="927" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1920.1080@120dpi" x="718" y="196" />
+    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser.0.0.1920.1080@120dpi" x="431" y="92" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080@120dpi" x="358" y="194" />
+    <location key="find.popup.0.0.1920.1080@120dpi" x="498" y="86" />
+    <location key="search.everywhere.popup.0.0.1920.1080@120dpi" x="604" y="195" />
+    <location key="#Project_Structure.0.0.1920.1080@120dpi" x="312" y="31" />
+    <location key="#Notifications.0.0.1920.1080@120dpi" x="647" y="222" />
+    <location key="NewModule_or_Project.wizard.0.0.1920.1080@120dpi" x="501" y="122" />
+    <location key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog.0.0.1920.1080@120dpi" x="510" y="173" />
+    <location key="#Intentions.0.0.1920.1080@120dpi" x="452" y="131" />
+    <location key="#app.0.0.1920.1080@120dpi" x="655" y="148" />
+    <location key="#com.intellij.tools.ToolEditorDialog.0.0.1920.1080@120dpi" x="653" y="383" />
+    <location key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey.0.0.1920.1080@120dpi" x="786" y="356" />
+    <location key="#Inspections.0.0.1920.1080@120dpi" x="589" y="218" />
+    <location key="deploy.picker.dialog.0.0.1920.1080@120dpi" x="735" y="216" />
+    <location key="AndroidProcessChooserDialog.0.0.1920.1080@120dpi" x="812" y="304" />
+    <location key="svn.repositoryBrowser.0.0.1920.1080@120dpi" x="777" y="333" />
+    <location key="svn4idea.checkout.options.0.0.1920.1080@120dpi" x="666" y="400" />
+    <location key="svn.upgradeDialog.0.0.1920.1080@120dpi" x="734" y="439" />
+    <location key="CommitChangelistDialog2.0.0.1920.1080@120dpi" x="432" y="77" />
+    <size key="new project wizard.0.0.1920.1080" width="1121" height="770" />
+    <size key="ProcessPopupWindow.0.0.1920.1080" width="634" height="147" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1876" height="281" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1876" height="281" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1876" height="281" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1876" height="281" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1876" height="281" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1876" height="281" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="1876" height="281" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="1876" height="281" />
+    <size key="find.popup.0.0.1920.1080" width="643" height="672" />
+    <size key="GridCell.Tab.2.left.0.0.1920.1080" width="1876" height="346" />
+    <size key="GridCell.Tab.2.center.0.0.1920.1080" width="1876" height="346" />
+    <size key="GridCell.Tab.2.right.0.0.1920.1080" width="1876" height="346" />
+    <size key="GridCell.Tab.2.bottom.0.0.1920.1080" width="1876" height="346" />
+    <size key="search.everywhere.popup.0.0.1920.1080" width="672" height="678" />
+    <size key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes.0.0.1920.1080" width="441" height="296" />
+    <size key="SettingsEditor.0.0.1920.1080" width="1062" height="714" />
+    <size key="SettingsEditor.0.0.1920.1080@120dpi" width="1216" height="714" />
+    <size key="ProcessPopupWindow.0.0.1920.1080@120dpi" width="496" height="143" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080@120dpi" width="1864" height="268" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080@120dpi" width="1864" height="268" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080@120dpi" width="1864" height="268" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080@120dpi" width="1864" height="268" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080@120dpi" width="1864" height="379" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080@120dpi" width="1864" height="379" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080@120dpi" width="1864" height="379" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080@120dpi" width="1864" height="379" />
+    <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080@120dpi" width="1123" height="793" />
+    <size key="find.popup.0.0.1920.1080@120dpi" width="923" height="939" />
+    <size key="search.everywhere.popup.0.0.1920.1080@120dpi" width="840" height="1032" />
+    <size key="new project wizard.0.0.1920.1080@120dpi" width="1019" height="706" />
+    <size key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog.0.0.1920.1080@120dpi" width="625" height="237" />
+    <size key="svn4idea.checkout.options.0.0.1920.1080@120dpi" width="959" height="310" />
+  </component>
+</application>
